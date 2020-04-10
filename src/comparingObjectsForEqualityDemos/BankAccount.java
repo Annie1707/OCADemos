@@ -1,6 +1,4 @@
-package comparingObjectsForEquality;
-
-import java.util.Objects;
+package comparingObjectsForEqualityDemos;
 
 public class BankAccount {
     String acctNumber;

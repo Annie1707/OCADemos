@@ -1,4 +1,4 @@
-package comparingObjectsForEquality;
+package comparingObjectsForEqualityDemos;
 //Comparing objects for equality
 //overriding equals method
 
